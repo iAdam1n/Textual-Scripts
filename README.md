@@ -10,4 +10,4 @@ git clone https://github.com/adaminsull/Textual-Slap-modified "~/Library/Contain
 
 Credit
 =====================
-Thanks to https://github.com/kirbylover4000 for the idea. 
+Thanks to [thekirbylover](http://adam.hbang.ws) for the idea. 
