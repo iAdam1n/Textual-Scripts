@@ -5,7 +5,7 @@ slap.scpt: Added some modifications to the original textual slap script to remov
 
 Gun.scpt: Simular to slap but a gun and modified. 
 
-House: "/me is in da house" script. 
+House.scpt: "/me is in da house" script. 
 
 Installation
 =====================
