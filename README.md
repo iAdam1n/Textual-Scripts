@@ -7,3 +7,7 @@ Installation
 =====================
 
 git clone https://github.com/adaminsull/Textual-Slap-modified "~/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Scripts"
+
+Credit
+=====================
+Thanks to https://github.com/kirbylover4000 for the idea. 
