@@ -1,4 +1,4 @@
-Textual-Slap-modified
+Textual-Scripts
 =====================
 
 Added some modifications to the original textual slap script to remove trout and add bass. 
@@ -6,7 +6,7 @@ Added some modifications to the original textual slap script to remove trout and
 Installation
 =====================
 
-git clone https://github.com/adaminsull/Textual-Slap-modified "~/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Scripts"
+git clone https://github.com/adaminsull/Textual-Scripts "~/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Scripts"
 
 Credit
 =====================
