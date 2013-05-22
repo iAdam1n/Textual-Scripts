@@ -7,6 +7,8 @@ Gun.scpt: "/me loads his pump shotgun and points it towards (Nick)".
 
 House.scpt: "/me is in da house" script. 
 
+jb.scpt "/jb redsn0w" shows the download link for the latest redsn0w. Most common jailbreak tools listed. redsn0w has two versions.
+
 Installation
 =====================
 
