@@ -12,5 +12,5 @@ jb.scpt "/jb redsn0w" shows the download link for the latest redsn0w. Most commo
 Installation
 =====================
 
-git clone https://github.com/adaminsull/Textual-Scripts "~/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Scripts"
+`git clone https://github.com/adaminsull/Textual-Scripts "~/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Scripts"`
 
