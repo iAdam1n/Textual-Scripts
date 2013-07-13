@@ -1,7 +1,7 @@
 Textual-Scripts
 =====================
 
-error.scpt Details on iOS errors you get in iTunes. (Thanks to [markhack](http://iosdevs.org) for the idea and starting this. )
+error.scpt Details on iOS errors you get in iTunes. Syntax "/error x" Replace x with the error code. (Thanks to [markhack](http://iosdevs.org) for the idea and starting this. )
 
 Gun.scpt: "/me loads his pump shotgun and points it towards (Nick)".
 
