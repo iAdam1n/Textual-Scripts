@@ -1,4 +1,3 @@
-
 on textualcmd(keyx)
   if keyx is equal to "wiki" then
 		return "iPhone Error WIKI - http://theiphonewiki.com/wiki/ITunes_Errors"
@@ -202,7 +201,7 @@ on textualcmd(keyx)
 		return "Error 3191: QuickTime may be corrupted. You must reinstall it before iTunes will work. Windows users, also try turning off Compatibility Mode for QuickTime."
 		
 	else if keyx is equal to "3194" then
-		return "Error 3194: Occurs when trying to install an old firmware and Apple's server disallows the installation. You'll Need to stitch a ipsw with shsh blobs and use dfu mode to restore."
+		return "Error 3194: Occurs when trying to install an old firmware and Apple's server disallows the installation. You'll need to stitch a ipsw with shsh blobs and use dfu mode to restore. Also happens if restoring to the latest iOS and the hosts point to Cydia. Remove gs.apple.com lines in hosts file."
 		
 	else if keyx is equal to "3195" then
 		return "Error 3195: There is no SHSH blob for the firmware."
