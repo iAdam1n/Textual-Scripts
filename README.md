@@ -13,7 +13,10 @@ slap.scpt: Added some modifications to the original textual slap script to remov
 
 Installation
 =====================
-To install, paste the following command into Terminal; 
+To install for 3.2.0+, paste the following command into Terminal; 
+
+`git clone https://github.com/adaminsull/Textual-Scripts "~/Library/Application Scripts/com.codeux.irc.textual"`
+
+To install for 3.0.0 - 3.1.0, paste the following command into Terminal; 
 
 `git clone https://github.com/adaminsull/Textual-Scripts "~/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Scripts"`
-
