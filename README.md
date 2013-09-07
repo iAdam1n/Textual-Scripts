@@ -3,9 +3,7 @@ Textual-Scripts
 
 error.scpt: Details on iOS errors you get in iTunes. Syntax "/error x" Replace x with the error code. (Thanks to [markhack](http://iosdevs.org) for the idea and starting this. )
 
-Gun.scpt: "/me loads his pump shotgun and points it towards (Nick)".
-
-House.scpt: "/me is in da house" script. 
+fw.scpt: "/fw iPhone2,1 6.0" to give out the URL to the iPhone 3GS 6.0 IPSW.
 
 jb.scpt "/jb redsn0w" shows the download link for the latest redsn0w. Most common jailbreak tools listed. redsn0w has two versions.
 
