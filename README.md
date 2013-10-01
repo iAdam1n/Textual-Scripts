@@ -1,7 +1,5 @@
 Textual-Scripts
 =====================
-slap.scpt: This is a modified version of the default slap script and instead of slapping with a trout, this slaps with a bass and more.
-
 error.scpt: Details on iOS errors you get in iTunes. Syntax "/error x" Replace x with the error code. (Thanks to [markhack](http://iosdevs.org) for the idea and starting this. )
 
 fw.scpt: "/fw iPhone2,1 6.0" to give out the URL to the iPhone 3GS 6.0 IPSW.
