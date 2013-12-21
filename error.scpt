@@ -1,6 +1,6 @@
 on textualcmd(keyx)
   if keyx is equal to "wiki" then
-		return "iPhone Error WIKI - http://theiphonewiki.com/wiki/ITunes_Errors"
+		return "iPhone Error wiki - http://theiphonewiki.com/wiki/ITunes_Errors"
 		
 	else if keyx is equal to "-9843" then
 		return "Error -9843: This error happens if you are logged out, try to download something from the iTunes Store and if you click on Download and enter an account, which doesn't have this article, this error will occur."
@@ -225,6 +225,6 @@ on textualcmd(keyx)
 		return "Error 20000: Is caused by a custom theme pack on your Windows. Use default Theme. This error can also be caused by the iDevice rebooting during the Extracting Firmware stage of restore."
 		
 	else
-		return "/debug Not Listed.. WiKi- http://is.gd/kBV9QJ Valid Commands: /error xxxx"
+		return "/debug Not Listed.. wiki- http://is.gd/kBV9QJ Valid Commands: /error xxxx"
 	end if
 end textualcmd
