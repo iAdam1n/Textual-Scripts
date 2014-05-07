@@ -4,7 +4,7 @@ error.scpt: Details on iOS errors you get in iTunes. Syntax: "/error x". Replace
 
 fw.scpt: "/fw iPhone2,1 6.0" to give out the URL to the iPhone 3GS 6.0 IPSW. URLS for iOS 6.0 and 6.1.3 for iPhone 3GS and A4 for redsn0w and sn0wbreeze.
 
-jb.scpt "/jb redsn0w" shows the download link for the latest redsn0w. Most common jailbreak tools listed. redsn0w has two versions - 0.9.14b2 (for iPhone 3G) and 0.9.15b3.
+jb.scpt "/jb redsn0w" shows the download link for the latest redsn0w. This script includes links for redsn0w 0.9.14b2 (for iPhone 3G), 0.9.15b3, sn0wbreeze 2.9.14 and iFaith 1.5.9.
 
 Installation
 =====================
