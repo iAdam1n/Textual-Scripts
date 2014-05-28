@@ -177,7 +177,7 @@ on textualcmd(keyx)
 		return "Error 2003: Connection problem; change USB cable and check USB port."
 		
 	else if keyx is equal to "2005" then
-		return "Error 2005: Problem connecting. Try reinstalling the USB drivers if that don't help, Probably a hardware failure."
+		return "Error 2005: Problem connecting. Try reinstalling the USB drivers if that doesn't help, probably a hardware failure."
 		
 	else if keyx is equal to "2006" then
 		return "Error 2006: Replace the USB cable with a newer one and/or disconnect all other USB devices, then retry."
