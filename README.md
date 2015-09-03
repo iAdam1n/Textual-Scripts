@@ -10,7 +10,11 @@ opme.scpt: Edit the script and replace "#CHANNEL" with the channel name you want
 
 Installation
 =====================
-To add for Textual 5.0+, paste the following command into Terminal; 
+To add for Textual 5.2.0+, paste the following command into Terminal; 
+
+`git clone https://github.com/iAdam1n/Textual-Scripts "~/Library/Application Scripts/com.codeux.apps.textual"`
+
+To add for Textual 5.0-5.1.4, paste the following command into Terminal; 
 
 `git clone https://github.com/iAdam1n/Textual-Scripts "~/Library/Application Scripts/com.codeux.irc.textual5"`
 
