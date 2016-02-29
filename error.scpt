@@ -1,5 +1,5 @@
 on textualcmd(keyx)
-  if keyx is equal to "wiki" then
+	if keyx is equal to "wiki" then
 		return "iPhone Error wiki - http://theiphonewiki.com/wiki/ITunes_Errors"
 		
 	else if keyx is equal to "-9843" then
@@ -100,6 +100,15 @@ on textualcmd(keyx)
 		
 	else if keyx is equal to "40" then
 		return "Error 40: Hacktivation bug in sn0wbreeze 2.0.1, which was fixed in sn0wbreeze 2.0.2. NAND chip is dead (confirm with ASR output from restore log)."
+		
+	else if keyx is equal to "48" then
+		return "Error 40: Dead/Malfunctioning baseband chip during restore/update, try again and if it doesn't work, a hardware fix will be necessary."
+
+	else if keyx is equal to "53" then
+		return "Error 53: Happens on devices with damaged Touch ID, cause is most likely water damage. DFU restoring to iOS 9.2.1 (13D20) or later will let the device boot but Touch ID will fail to work. Bring the device to Apple if possible. Can be an error with iTunes. In this case, change your DNS to 8.8.8.8 and try again."
+
+	else if keyx is equal to "56" then
+		return "Error 56: Most likely a dead/glitched Touch ID sensor. If seen on iPad's, try restoring the latest firmware in DFU mode. If error still occurs, bring your device to Apple. On iPhones, take out the SIM card and try restoring in DFU mode. If still occurring, bring your device to apple."
 		
 	else if keyx is equal to "1004" then
 		return "Error 1004: This is caused by a failure to match the Baseband Nonce currently in memory to the nonce returned in the Baseband Firmware SHSH blob. This happens if you edited the hosts file (Saurik's Server) or you are using TinyUmbrella. Use TinyUmbrella and Kick Device Out Of Recovery to boot."
