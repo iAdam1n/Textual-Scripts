@@ -1,21 +1,3 @@
-## [License](LICENSE)
-
-	Textual-Scripts: Collection of Textual scripts that I made.
-	Copyright (C) 2013-2016  iAdam1n
-	
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
 Textual-Scripts
 =====================
 error.scpt: Details on iOS errors you get in iTunes. Syntax: "/error x". Replace x with the error code. 
@@ -25,6 +7,8 @@ fw.scpt: "/fw iPhone2,1 6.0" to give out the URL to the iPhone 3GS 6.0 IPSW. URL
 jb.scpt: "/jb redsn0w" shows the download link for the latest redsn0w. This script includes links for redsn0w 0.9.14b2 (for iPhone 3G), 0.9.15b3, sn0wbreeze 2.9.14 and iFaith 1.5.9.
 
 opme.scpt: Edit the script and replace "#CHANNEL" with the channel name you want it to op you on.
+
+Please do not copy, modify or redistribute. If you want to use some of my work, please contact me first.
 
 Installation
 =====================
